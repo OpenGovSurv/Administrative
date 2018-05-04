@@ -5,6 +5,8 @@ In this working group, we primarily working with `git` to manage the workflow of
 
 Please work through the following 15-Minute git tutorial first: [https://try.github.io](https://try.github.io). Afterwards, you can install git on Windows or on UNIX.
 
+If you ever forget how to use the git, please klick here: [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/).
+
 ### Install `git`
 Windows user please klick [here](https://www.atlassian.com/git/tutorials/install-git#windows), and Mac user click [here](https://www.atlassian.com/git/tutorials/install-git#mac-os-x) to install `git`. For collaborating purpose, we also need to install [Github Desktop](https://desktop.github.com) on our computer.
 
@@ -69,13 +71,13 @@ hello world.
  4. Add, commit and push this file on the your created branch.
 
 ```shell
-Initial commit
+git commit
 ```
 
  5. Modify content of the file main.r according to the description in this file. Add, commit and push your modified file on the master branch. Commit message should be:
  
 ```shell
-Initial commit - <first name>_<last name>
+git commit -m "<first name>_<last name>"
 ```
  
  6. After all of you have done this, pull out the files on the online repo to your local one. Merge with your own branch.
