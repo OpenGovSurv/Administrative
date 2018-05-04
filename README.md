@@ -82,6 +82,8 @@ git commit -m "<first name>_<last name>"
  
  6. After all of you have done this, pull out the files on the online repo to your local one. Merge with your own branch.
  
+ (When you are pushing files, there might be problems concerning the different versions of files (the conflicts). Please consult this [webpage](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/) to solve this kind of problem.)
+ 
  ## Jupyter-Notebook
  We will use Jupyter-Notebook to coordinate, visualize the coding. Since we might run data cleansing and statistical modelling in R, webscraping and interactive plotting via Python, and data simulations in MATLAB or Julia, a notebook which can manage all these scripts can substantially enhance your coding experience (Although the installation can be tricky for Windows users ^^). Jupyter notebook based on Python/IPython, but you can also install APIs to realize the implementation of other languages there.
  
