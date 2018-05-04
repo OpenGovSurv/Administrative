@@ -66,7 +66,7 @@ Then, please read the guide to complete the following task:
 hello world.
 ```
  
- 3. Create a branch with "<first name>_<last name>"
+ 3. Create a branch with <first name>_<last name>. Useful link: http://rogerdudler.github.io/git-guide/
  
  4. Add, commit and push this file on the your created branch.
 
