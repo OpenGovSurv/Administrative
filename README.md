@@ -156,7 +156,7 @@ deactivate # Leave the virtual environment
 Please follow this guide: [https://irkernel.github.io/installation/#binary-panel](https://irkernel.github.io/installation/#binary-panel)
 
 ### Task
-Activate the virtual environment and jupyter-notebook. Create a R file named "<family name>_jupyter" (with the .ipynb suffix). Play around with the interface a little bit. Generate some random numbers for two different variables with the same length of observations, and plot a dot plot and a regression line (You can use `base` or `ggplot2`). Run this, customize the markdown. Save it. Then add, commit, push it on the master branch, with the message 
+Activate the virtual environment and jupyter-notebook. Create a R file named "familyname_jupyter" (with the .ipynb suffix). Play around with the interface a little bit. Generate some random numbers for two different variables with the same length of observations, and plot a dot plot and a regression line (You can use `base` or `ggplot2`). Run this, customize the markdown. Save it. Then add, commit, push it on the master branch, with the message 
 
 ```shell
   init R
