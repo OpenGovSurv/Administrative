@@ -60,13 +60,13 @@ Then, please read the guide to complete the following task:
 
 1. Cloning this repo: https://github.com/OpenGovSurv/Administrative.git
 
-2. Create a file with "<first name>_<last name>.txt" in your off line repo. Please edit this file with the following content (Windows users can use `edit`, mac users `nano` or `vim`).
+2. Create a file with "_.txt" in your off line repo. Please edit this file with the following content (Windows users can use `edit`, mac users `nano` or `vim`).
 
 ```shell
 hello world.
 ```
  
- 3. Create a branch with <first name>_<last name>. Useful link: http://rogerdudler.github.io/git-guide/
+ 3. Create a branch with the name: first name_last name. Useful link: http://rogerdudler.github.io/git-guide/
  
  4. Add, commit and push this file on the your created branch.
 
