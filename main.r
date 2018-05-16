@@ -3,3 +3,4 @@
 Lukas Weixler
 Philipp Bosch 
 Qixuan Yang
+Malte Kyhos
