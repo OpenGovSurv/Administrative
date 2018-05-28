@@ -5,7 +5,9 @@
 #
 ###########################################################################
 
-
+## To Do:
+#   - Transform Identification loop into function, use lapply() in regard of
+#     better performance. 
 
 # Create copy of SheetList_raw for this process to work with:
 SheetList_id <- SheetList_raw
@@ -22,6 +24,8 @@ index_df <- data.frame(name = seq(1:length(SheetList_id)),
                        date = NA)
 
 # Identification loop -----------------------------------------------------
+
+
 
 # For usage of str_detect, all NAs should be converted to "NA":
 SheetList_id <- lapply(SheetList_id, function(d) {d[is.na(d)] <- "NA"; d})
